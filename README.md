@@ -54,7 +54,7 @@ Upon running the Flight Management System, you will be greeted with a simple men
    - Exit the application.
    - You can return to this menu any time you want.
 
-## Example Workflow for Booking:
+## Workflow for Booking:
 
 - Choose **Booking** from the menu.
 - Enter the departure city from the available options.
@@ -65,7 +65,7 @@ Upon running the Flight Management System, you will be greeted with a simple men
    - Age
 - Once all details are entered, the system will assign a seat and confirm the booking, displaying a summary of the reservation.
 
-## Example Workflow for Cancelling Tickets:
+## Workflow for Cancelling Tickets:
 
 - Choose **Cancel Ticket** from the menu.
 - Enter the booking reference or the passenger details (like name or ID).
