@@ -1,3 +1,5 @@
+![image](https://res.cloudinary.com/dptxpybsb/image/upload/v1729527998/ssssss_zo1hhe.png)
+
 # 🛫 Flight Management System (FMS) using C Programming
 
 ## 🚀 Overview
@@ -69,5 +71,9 @@ Upon running the Flight Management System, you will be greeted with a simple men
 - Enter the booking reference or the passenger details (like name or ID).
 - Confirm the cancellation by following the prompts.
 - The system will finalize the process and notify you of the successful cancellation.
+
+## Working of Project
+- Formal Execution - [Click Here](https://drive.google.com/file/d/1-2PuqSM8zlGxyFEUTZxB_rcmnaggwbbF/view?usp=drive_link)
+- Error Execution - [Click Here](https://drive.google.com/file/d/1-56gUrMMYPSap9dm0dSKRMopmkwBjtTF/view?usp=drive_link)
 
 ---
